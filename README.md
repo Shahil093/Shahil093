@@ -9,9 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahil093&label=Profile%20views&color=0e75b6&style=flat" alt="shahil093" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Shahil099](https://linktr.ee/Shahil099)
-
+-  📫 How to reach me **Shahilmd033@gmail.com**
 - ⚡ Fun fact **I am funny😅**
-
 - 🌱 I’m currently learning **Frameworks, Courses etc.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahil093" alt="shahil093" /></a></p>
