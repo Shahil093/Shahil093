@@ -6,6 +6,8 @@
 - 🥅 2023 Goals: Learn more about web3 and contribute to open source.<br />
 - ⚡ Fun fact: I love playing football and the Cricket 😻 <br />
 
+![line](./img/line.gif)
+
 <h2>🚀 Languages and Tools:</h2>
 
 <p align="left">
@@ -26,6 +28,8 @@
 <a href = "https://linktr.ee/Shahil099" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <h1 align="center">Github Stats</h1>
 
+![line](./img/line.gif)
+
 <div align="center">
  
 ![Shahil093's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahil093)
@@ -34,11 +38,15 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shahil093&theme=synthwave)](https://git.io/streak-stats)
 </div>
 
+![line](./img/line.gif)
+
 ### Certificates and Licenses
 
 <p align="left">
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.credly.com/badges/384ae612-9884-451b-b6a5-40c426fb58a1/public_url" target="_blank"><img src="./img/google-it-support-certificate.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/8789a6f7-31c4-4b3f-811f-11c98faca876/public_url" target="_blank"><img src="./img/devops-essentials.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/2c45661e-2cdc-4e1d-aad2-238607c2fd9f/public_url" target="_blank"><img src="./img/cloud-computing.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/eb95bf12-53e8-4d9e-8413-bb423be966db#gs.yfg7hp" target="_blank"><img src="./img/html-css-badge.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/fa76271b-1e4b-4bc2-ae47-43828c52a843#gs.yfg8lc" target="_blank"><img src="./img/js-badge.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/e9020b6a-0c15-4150-804a-3ef748299966#gs.yfg9ow" target="_blank"><img src="./img/react-badge.png" width="80"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/384ae612-9884-451b-b6a5-40c426fb58a1/public_url" target="_blank"><img src="./google-it-support-certificate.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/8789a6f7-31c4-4b3f-811f-11c98faca876/public_url" target="_blank"><img src="./img/devops-essentials.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/2c45661e-2cdc-4e1d-aad2-238607c2fd9f/public_url" target="_blank"><img src="./cloud-computing.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/eb95bf12-53e8-4d9e-8413-bb423be966db#gs.yfg7hp" target="_blank"><img src="./html-css-badge.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/fa76271b-1e4b-4bc2-ae47-43828c52a843#gs.yfg8lc" target="_blank"><img src="./img/js-badge.png" width="80"></a>&nbsp;&nbsp;<a href="https://www.credential.net/e9020b6a-0c15-4150-804a-3ef748299966#gs.yfg9ow" target="_blank"><img src="./react-badge.png" width="80"></a>&nbsp;&nbsp;
 
 </p>
+
+![line](./img/line.gif)
