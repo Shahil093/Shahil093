@@ -6,7 +6,10 @@
 <h2>🚀 Languages and Tools:</h2>
 
 <p align="left">
- <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/> </a><a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+ <a href="" target="_blank"><img src=""/> </a>
+ <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+ <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+ <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png">
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
