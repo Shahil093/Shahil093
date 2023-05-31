@@ -23,7 +23,9 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
-![line](./line.gif) 
+
+ ![line](./line.gif) 
+
 <h2>Connect with me:</h2><p align="left">
 <a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://linktr.ee/Shahil099" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
