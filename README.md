@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other software developers.<br />
 - 🥅 2023 Goals: Learn more about web3 and contribute to open source.<br />
 - ⚡ Fun fact: I love playing football and the Cricket 😻 <br />
+- <h3>Shahilmd033@gmail.com 😚</h3>
 
 ![line](./line.gif)
 
@@ -12,6 +13,7 @@
 
 <p align="left">
  <a href="" target="_blank"><img src=""/> </a>
+  <img src="https://icons8.com/icon/13679/java/icons8-java-48.png"/>
  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -29,7 +31,7 @@
 <h2>Connect with me:</h2><p align="left">
 <a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://linktr.ee/Shahil099" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
- <a href = "Shahilmd033@gmail.com" target="_blank"><img src="https://icons8.com/icon/qyRpAggnV0zH/gmail"/></a>
+ <a href = "Shahilmd033@gmail.com" target="_blank"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail/icons8-gmail-48.png"/></a>
  
 
  ![line](./line.gif)
