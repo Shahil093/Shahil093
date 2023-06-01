@@ -29,6 +29,8 @@
 <h2>Connect with me:</h2><p align="left">
 <a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://linktr.ee/Shahil099" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+ <a href = "Shahilmd033@gmail.com" target="_blank"><img src="https://icons8.com/icon/qyRpAggnV0zH/gmail"/></a>
+ 
 
  ![line](./line.gif)
 
