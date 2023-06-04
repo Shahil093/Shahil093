@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other software developers.<br />
 - 🥅 2023 Goals: Learn more about web3 and contribute to open source.<br />
 - ⚡ Fun fact: I love playing football and the Cricket 😻 <br />
-- <h3>Shahilmd033@gmail.com 😚</h3>
 
 ![line](./line.gif)
 
