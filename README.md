@@ -34,7 +34,6 @@
 <h2>Connect with me:</h2><p align="left">
 <a href = "https://www.linkedin.com/in/md-shahil-996586226/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://linktr.ee/Shahil099" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
- <a href = "Shahilmd033@gmail.com" target="_blank"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail/icons8-gmail-48.png"/></a>
  
 
  ![line](./line.gif)
